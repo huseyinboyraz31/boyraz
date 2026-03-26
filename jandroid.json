@@ -1,5 +1,5 @@
 {
   "moduleName": "JJSploit-Android",
-  "script": "game:GetService(\"StarterGui\"):SetCore(\"SendNotification\", {Title = \"WeAreDevs API\", Text = \"https://wearedevs.net\", Icon = \"rbxassetid://137842439297855\"})",
+  "script": "game:GetService(\"StarterGui\"):SetCore(\"SendNotification\", {Title = \"Boyraz Executor\", Text = \"Made By huseyinboyraz\", Icon = \"https://huseyinboyraz.com.tr/icon.png\"})",
   "versionName": "1.0"
 }
